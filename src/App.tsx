@@ -1,7 +1,7 @@
 import { Route, Switch } from 'react-router-dom';
 import './App.scss';
-import About from './components/about/about';
-import Home from './components/home';
+import About from './components/About/about';
+import Home from './components/Home/home';
 import PageNotFound from './components/PageNotFound/pageNotFound';
 
 function App() {
